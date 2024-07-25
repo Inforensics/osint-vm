@@ -8,7 +8,7 @@ Inforensics osint-vm is a cutting-edge Linux distribution designed specifically 
 
 ## Background
 
-Inforensics osint-vm is the brainchild of Jascha Wanger, a seasoned expert with over 25 years of experience in creating custom Linux distributions, OSINT, Cybersecurity, AI, and Cloud technologies. Jascha's journey in the world of specialized Linux distributions began with the creation of [L.A.S. Linux](https://distrowatch.com/table.php?distribution=las) (Local Area Security Linux), a precursor to Kali Linux.
+Inforensics osint-vm is a continuation of specialized Linux distributions that began with the creation of [L.A.S. Linux](https://distrowatch.com/table.php?distribution=las) (Local Area Security Linux), a precursor to Kali Linux in the early 2000s.
 
 L.A.S. Linux gained recognition for its innovation and utility that it was featured as Hack #100 in Kyle Rankin's "Knoppix Hacks" book.
 
@@ -26,10 +26,5 @@ Drawing from the success and lessons learned from L.A.S. Linux, Jascha has craft
 - **User-Friendly Interface**: Intuitive design that caters to both novice and experienced OSINT practitioners.
 - **Customizability**: Flexible environment that allows investigators to tailor their workspace to their specific needs.
 
-## Join the Inforensics Community
-
-Inforensics osint-vm is more than just a tool; it's a community of passionate OSINT investigators. We encourage users to share their experiences, contribute to the project, and help shape the future of osint-vm.
-
-Whether you're a law enforcement professional, a corporate security analyst, or an independent researcher, Inforensics osint-vm provides the robust platform you need to conduct thorough and effective open-source intelligence gathering.
-
-Embark on your OSINT journey with Inforensics osint-vm - where innovation meets investigation.
+## Screenshot
+![Inforensics OSINT-VM Desktop](https://github.com/Inforensics/osint-vm/blob/main/screenshots/apps-shell.png)
