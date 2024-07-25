@@ -2,6 +2,8 @@
 
 ## A Powerful OSINT Tool for MODERN Investigators
 
+[![Download inforensics](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/inforensics/files/latest/download)
+
 Inforensics osint-vm is a cutting-edge Linux distribution designed specifically for Open Source Intelligence (OSINT) investigators. Built on the solid foundations of Debian, Kali, and Tracelabs images, Inforensics brings together a comprehensive suite of tools and resources to empower digital investigators in their quest for information. We make sure Inforensics osint-vm does not use out-of-date tools that have not been updated in 3+ years. Only the most current and useful tools we use ourselves are included.
 
 ## Background
