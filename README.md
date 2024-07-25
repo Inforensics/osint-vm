@@ -4,13 +4,13 @@
 
 Inforensics osint-vm is a cutting-edge Linux distribution designed specifically for Open Source Intelligence (OSINT) investigators. Built on the solid foundations of Debian, Kali, and Tracelabs images, Inforensics brings together a comprehensive suite of tools and resources to empower digital investigators in their quest for information. We make sure Inforensics osint-vm does not use out-of-date tools that have not been updated in 3+ years. Only the most current and useful tools we use ourselves are included.
 
-## Behind Inforensics
+## Background
 
-Inforensics osint-vm is the brainchild of Jascha Wanger, a seasoned expert with over 25 years of experience in creating custom Linux distributions, OSINT, Cybersecurity, AI, and Cloud technologies. Jascha's journey in the world of specialized Linux distributions began with the creation of L.A.S. Linux (Local Area Security Linux), a precursor to the now-famous Kali Linux.
+Inforensics osint-vm is the brainchild of Jascha Wanger, a seasoned expert with over 25 years of experience in creating custom Linux distributions, OSINT, Cybersecurity, AI, and Cloud technologies. Jascha's journey in the world of specialized Linux distributions began with the creation of [L.A.S. Linux](https://distrowatch.com/table.php?distribution=las) (Local Area Security Linux), a precursor to Kali Linux.
 
 L.A.S. Linux gained recognition for its innovation and utility that it was featured as Hack #100 in Kyle Rankin's "Knoppix Hacks" book.
 
-## The Evolution from L.A.S. to Inforensics
+## The Evolution from L.A.S. to Inforensics osint-vm
 
 Drawing from the success and lessons learned from L.A.S. Linux, Jascha has crafted Inforensics osint-vm to meet the evolving needs of modern OSINT investigators. Like its predecessor, Inforensics is built with a focus on:
 
@@ -23,12 +23,10 @@ Drawing from the success and lessons learned from L.A.S. Linux, Jascha has craft
 - **Comprehensive OSINT Toolkit**: Includes a wide array of tools for social media investigation, network analysis, geolocation, and more.
 - **User-Friendly Interface**: Intuitive design that caters to both novice and experienced OSINT practitioners.
 - **Customizability**: Flexible environment that allows investigators to tailor their workspace to their specific needs.
-- **Documentation and Learning Resources**: Extensive guides and tutorials to help users make the most of the included tools.
-- **Privacy and Security**: Built-in features to protect the investigator's identity and secure gathered information.
 
 ## Join the Inforensics Community
 
-Inforensics osint-vm is more than just a tool; it's a community of passionate OSINT investigators. We encourage users to share their experiences, contribute to the project, and help shape the future of osint-vm investigations.
+Inforensics osint-vm is more than just a tool; it's a community of passionate OSINT investigators. We encourage users to share their experiences, contribute to the project, and help shape the future of osint-vm.
 
 Whether you're a law enforcement professional, a corporate security analyst, or an independent researcher, Inforensics osint-vm provides the robust platform you need to conduct thorough and effective open-source intelligence gathering.
 
