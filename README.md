@@ -1,6 +1,6 @@
 # Inforensics osint-vm
 
-## A Powerful OSINT Tool for MODERN Investigators
+## A Powerful OSINT Toolbox 🧰️ for MODERN Investigators
 
 [![Download inforensics](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/inforensics/files/beta1/)
 
