@@ -26,5 +26,8 @@ Drawing from the success and lessons learned from L.A.S. Linux, and many other s
 - **User-Friendly Interface**: Intuitive design that caters to both novice and experienced OSINT practitioners.
 - **Customizability**: Flexible environment that allows investigators to tailor their workspace to their specific needs.
 
+> [!WARNING]  
+> Be sure to install your own chosen VPN service and practice good OPSEC. Tor and Tor Browser are already installed, but may need further configuration.
+
 ## Screenshot
 ![Inforensics OSINT-VM Desktop](https://github.com/Inforensics/osint-vm/blob/main/screenshots/apps-shell.png)
