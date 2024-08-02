@@ -1,8 +1,9 @@
 # Inforensics osint-vm
 
 ## A Powerful OSINT Toolbox 🧰️ for MODERN Investigators
-
-[![Download inforensics](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/inforensics/files/beta1/)
+### Download Options:  
+[![Download inforensics](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/inforensics/files/beta1/)  
+[Direct from Inforensics](https://dl.inforensics.ai/vm/)  
 
 Inforensics osint-vm is a cutting-edge Linux distribution designed specifically for Open Source Intelligence (OSINT) investigators. Built on the solid foundations of Debian, Kali, and antiX packages, Inforensics brings together a comprehensive suite of tools and resources to empower digital investigators in their quest for information. We make sure Inforensics osint-vm does not use out-of-date tools that have not been updated in 3+ years. Only the most current and useful tools we use ourselves are included.
 
