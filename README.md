@@ -19,7 +19,7 @@ L.A.S. Linux gained recognition for its innovation and utility that it was featu
 
 ## The Evolution from L.A.S. to Inforensics osint-vm
 
-Drawing from the success and lessons learned from L.A.S. Linux, and many other since made Inforensics osint-vm to meet the evolving needs of modern OSINT investigators. Like its predecessors, Inforensics is built with a focus on:
+Drawing from the success and lessons learned from L.A.S. Linux, and many other specialized Linux distros we've made Inforensics osint-vm to meet the evolving needs of modern OSINT investigators. Like its predecessors, Inforensics is built with a focus on:
 
 1. **Specialized Toolset**: Carefully curated selection of high-quality OSINT tools, avoiding redundancy and ensuring each inclusion serves a unique purpose.
 2. **Regular Updates**: Commitment to frequent updates, ensuring investigators always have access to the latest tools and security patches.
