@@ -1,10 +1,11 @@
 # Inforensics OSINT-VM
 ## A Powerful OSINT Toolbox 🧰️ for MODERN Investigators
+
+UPDATE: May 1st, 2025 - The main developer of this project is resuming work again to update the VM. New release coming soon!
+
 ### Download Options:  
 [![Download inforensics](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/inforensics/files/beta1/)  
-
-[![Download OSINT-VM from Inforensics.ai](https://img.shields.io/badge/Download%20OSINT--VM%20from%20Inforensics.ai-0078D7?style=for-the-badge&logoWidth=20)](https://dl.inforensics.ai/vm)  
-
+ 
 See [Wiki](https://github.com/Inforensics/osint-vm/wiki) for FAQs and Help.  
 
 
